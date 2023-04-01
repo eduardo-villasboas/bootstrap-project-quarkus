@@ -1,7 +1,7 @@
-package com.quarkus.app.server
+package com.bootstrap.service.infrastructure.framework
+
 
 import io.quarkus.test.junit.QuarkusIntegrationTest
-import com.bootstrap.chatbot.service.infrastructure.framework.GreetingResourceComponentTest
 
 @QuarkusIntegrationTest
 class GreetingResourceIT : GreetingResourceComponentTest()
